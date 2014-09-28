@@ -1,50 +1,490 @@
--
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
+- id: "101"
+  title: "Doors open, Registration, Snacks"
+  place: atrium
   service: true
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
+  description: "Come in, get your swag and ready to code."
+  subtype: workshops
+  language: en
+  complexity: Intermediate
+  speakers: []
+- id: "102"
+  title: "Welcome & Introduction"
+  place: atrium
   service: true
--
-  id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
+  description: "Learn what we have prepared for you, where the rooms are and what else is imporatant to know."
+  subtype: workshops
   language: en
-  complexity: "Intermediate"
--
-  id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "Android wear extends the Android platform to a new generation of wearable devices. The user experience is designed specifically for wearables. In this session you’ll see how to use the Android Wear SDK to build a connected cloud-powered application. Using Android Studio and it’s cloud extensions, you’ll see how to build an app that ‘listens’ for changes in stock prices, and notifies a wearable device. You’ll also see how to use voice controls on the device to trigger interactions with the app, such as buying or selling the stock after a notification. Call to action: Get the SDK and start building apps today!"
-  subtype: presentation
-  speakers: [4, 5]
+  complexity: Intermediate
+  speakers:
+    - benjaminweiss
+    - stefanhoth
+- id: "103"
+  title: Wrap-Up
+  place: atrium
+  service: true
+  description: ""
+  subtype: workshops
   language: en
-  complexity: "Beginner"
--
-  id: 003
-  title: "The world is your playground - go global with Google"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
-  speakers: [4]
+  complexity: Intermediate
+  speakers:
+    - benjaminweiss
+    - stefanhoth
+- id: "104"
+  title: "After hour drinks @ c-base"
+  place: cbase
+  service: true
+  description: ""
+  subtype: workshops
   language: en
-  complexity: "Expert"
--
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
--
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
+  complexity: Intermediate
+  speakers: []
+- id: "105"
+  title: "WELCOME! Doors open, Registration, Breakfast, Snacks"
+  place: atrium
+  service: true
+  description: ""
+  subtype: conference
   language: en
-  complexity: "Expert"
+  complexity: Intermediate
+  speakers: []
+- id: "106"
+  title: "Greeting, Introduction, 180 secs of fame (Silver)"
+  place: atrium
+  service: true
+  description: ""
+  subtype: conference
+  language: en
+  complexity: Intermediate
+  speakers:
+    - benjaminweiss
+    - stefanhoth
+- id: "107"
+  title: LUNCH
+  place: cafe
+  service: true
+  description: ""
+  subtype: conference
+  language: en
+  complexity: Intermediate
+  speakers: []
+- id: "108"
+  title: "COFFEE(!) BREAK"
+  place: cafe
+  service: true
+  description: ""
+  subtype: conference
+  language: en
+  complexity: Intermediate
+  speakers: []
+- id: "109"
+  title: Wrap-Up
+  place: atrium
+  service: true
+  description: ""
+  subtype: conference
+  language: en
+  complexity: Intermediate
+  speakers:
+    - benjaminweiss
+    - stefanhoth
+- id: "110"
+  title: "Party @ c-base"
+  place: cbase
+  service: true
+  description: ""
+  subtype: conference
+  language: en
+  complexity: Intermediate
+  speakers: []
+- id: "111"
+  title: "Doors open, Registration, Snacks"
+  place: atrium
+  service: true
+  description: "Come in, get your swag and ready to code."
+  subtype: hackathon
+  language: en
+  complexity: Intermediate
+  speakers: []
+- id: "112"
+  title: "Project idea pitching & team building"
+  place: atrium
+  service: true
+  description: ""
+  subtype: hackathon
+  language: en
+  complexity: Intermediate
+  speakers:
+    - stefanhoth
+- id: "113"
+  title: Extreme RETRO Hacking
+  place: atrium
+  service: true
+  description: ""
+  subtype: hackathon
+  language: en
+  complexity: Intermediate
+  speakers: []
+- id: "114"
+  title: Demo time
+  place: atrium
+  service: true
+  description: ""
+  subtype: hackathon
+  language: en
+  complexity: Intermediate
+  speakers:
+    - stefanhoth
+- id: "115"
+  title: "Award ceremony & the long Goodbye :-("
+  place: atrium
+  service: true
+  description: ""
+  subtype: hackathon
+  language: en
+  complexity: Intermediate
+  speakers:
+    - stefanhoth
+- id: "001"
+  title: Installing Android Studio and the SDK
+  place: casino
+  service: null
+  description: ""
+  subtype: workshops
+  language: en
+  complexity: Intermediate
+  speakers:
+    - dirkjaeckel
+- id: "002"
+  title: Android for absolute beginners I
+  place: casino
+  service: null
+  description: ""
+  subtype: workshops
+  language: en
+  complexity: Intermediate
+  speakers:
+    - dirkjaeckel
+- id: "003"
+  title: Android for absolute beginners II
+  place: casino
+  service: null
+  description: ""
+  subtype: workshops
+  language: en
+  complexity: Intermediate
+  speakers:
+    - dirkjaeckel
+- id: "004"
+  title: Android for absolute beginners III
+  place: casino
+  service: null
+  description: ""
+  subtype: workshops
+  language: en
+  complexity: Intermediate
+  speakers:
+    - dirkjaeckel
+- id: "005"
+  title: AngularJS workshop
+  place: konfi3
+  service: null
+  description: ""
+  subtype: workshops
+  language: en
+  complexity: Intermediate
+  speakers:
+    - stefanhoth
+- id: "006"
+  title: AngularJS workshop
+  place: konfi3
+  service: null
+  description: ""
+  subtype: workshops
+  language: en
+  complexity: Intermediate
+  speakers:
+    - stefanhoth
+- id: "007"
+  title: AngularJS workshop
+  place: konfi3
+  service: null
+  description: ""
+  subtype: workshops
+  language: en
+  complexity: Intermediate
+  speakers:
+    - stefanhoth
+- id: 008
+  title: AngularJS workshop
+  place: konfi3
+  service: null
+  description: ""
+  subtype: workshops
+  language: en
+  complexity: Intermediate
+  speakers:
+    - stefanhoth
+- id: 009
+  title: Syntax Speedrun I
+  place: konfi45
+  service: null
+  description: "Go has been getting more and more attention over the last few years.<br/>If it has peaked your interest as well, here's your chance to learn<br/>the basics and write your first Go program."
+  subtype: workshops
+  language: en
+  complexity: Intermediate
+  speakers:
+    - alexandersurma
+- id: "010"
+  title: Syntax Speedrun II
+  place: konfi45
+  service: null
+  description: "Go has been getting more and more attention over the last few years.<br/>If it has peaked your interest as well, here's your chance to learn<br/>the basics and write your first Go program."
+  subtype: workshops
+  language: en
+  complexity: Intermediate
+  speakers:
+    - alexandersurma
+- id: "011"
+  title: Write all the Pixels
+  place: konfi45
+  service: null
+  description: "Go has been getting more and more attention over the last few years.<br/>If it has peaked your interest as well, here's your chance to learn<br/>the basics and write your first Go program."
+  subtype: workshops
+  language: en
+  complexity: Intermediate
+  speakers:
+    - alexandersurma
+- id: "012"
+  title: Write all the Pixels
+  place: konfi45
+  service: null
+  description: "Go has been getting more and more attention over the last few years.<br/>If it has peaked your interest as well, here's your chance to learn<br/>the basics and write your first Go program."
+  subtype: workshops
+  language: en
+  complexity: Intermediate
+  speakers:
+    - alexandersurma
+- id: "013"
+  title: Android ruling the big screen
+  place: atrium
+  service: null
+  description: "ChromeCast isn't the only approach by Google to bring control over your big screen to your mobile devices. Besides adopting the GoogleCast SDK to access content on the TV, developers can make use of Androids Presentation API (via Miracast) to utilize the TV as an additional screen or use the Anymote protocol to gain full control over Google TV devices right from within their apps. This talk will take a look at all three approaches, compare them and give some details on how to make use of them in your Android app."
+  subtype: conference
+  language: en
+  complexity: Intermediate
+  speakers:
+    - matthiasfriedrich
+- id: "014"
+  title: Inject with Dagger
+  place: atrium
+  service: null
+  description: "Inject with Dagger - Dependency Injection on Android is nothing new.<br/>Guice-based RoboGuice was the first developers' choice for years.<br/>Unfortunately, since it's reflection based it's source of performance issues, visible especially on older devices. Dagger and its codegen-based injection seems like a better solution but is it mature enough to fight with well-known RoboGuice?"
+  subtype: conference
+  language: en
+  complexity: Intermediate
+  speakers:
+    - mateuszherych
+- id: "015"
+  title: "Gradle, Android Studio and the beauty of the command line"
+  place: atrium
+  service: null
+  description: "David Gonzalez will explain his experience and propose best practices learned from using Gradle as the build system for production environment applications and libraries. By developing the new application for ARTE (www.arte.tv) David gained knowledge in Gradle and how to properly build, test and release applications and libraries using this build system. David will show that Gradle is not the perfect build system yet but it will be. There are benefits and downsides over other build systems, developers will get the knowledge of what was learned using Gradle over the last months."
+  subtype: conference
+  language: en
+  complexity: Intermediate
+  speakers:
+    - davidgonzalez
+- id: "016"
+  title: "Prototyping your Android app, the (U)X-factor"
+  place: atrium
+  service: null
+  description: "Prototypes can be a great way to improve Android application results on two fronts: they can prove a concept or improve on it, and they can teach you valuable lessons about the best ways to develop the product.<br/>This session will provide practical information about the approach and experiences implementing prototyping."
+  subtype: conference
+  language: en
+  complexity: Intermediate
+  speakers:
+    - wiebeelsinga
+- id: "017"
+  title: Authentication for Droids
+  place: atrium
+  service: null
+  description: This talk is going to shed some light on different techniques that help to authenticate users in your application via methods such as Basic Authentication and more advanced technologies like OAuth 2.0 and OpenID Connect. Best practices will be presented and (dis-)advantages are going to be discussed.
+  subtype: conference
+  language: en
+  complexity: Intermediate
+  speakers:
+    - timmesserschmidt
+- id: 018
+  title: You are not alone on this phone
+  place: atrium
+  service: null
+  description: This talk gives a brief overview of the options Android offers you to integrate with other apps.
+  subtype: conference
+  language: en
+  complexity: Intermediate
+  speakers:
+    - christianketterer
+- id: 019
+  title: Fireside chat with all speakers of the Android track
+  place: atrium
+  service: null
+  description: ""
+  subtype: conference
+  language: en
+  complexity: Intermediate
+  speakers:
+    - matthiasfriedrich
+    - mateuszherych
+    - davidgonzalez
+    - wiebeelsinga
+    - christianketterer
+    - benjaminweiss
+    - timmesserschmidt
+- id: "020"
+  title: Cutting Edge Web Applications
+  place: konfi45
+  service: null
+  description: "Currently the most web applications are based on a client application with a mixture of HTML5, CSS3 and JS (ES5). In this session we will take a look at how to create this applications in a clean and maintainable way and how they are tied together."
+  subtype: conference
+  language: en
+  complexity: Intermediate
+  speakers:
+    - sebastianstiehl
+- id: "021"
+  title: "For your Canary eyes only: CSS custom filters"
+  place: konfi45
+  service: null
+  description: "Also known as custom CSS filters, this technology allows you to specify a vertex and a pixel shader to be applied to your page in your CSS. The GLSL shaders are executed directly by the GPU, unlocking an immense graphical power right from your CSS, entirely bypassing the complexity of OpenGL."
+  subtype: conference
+  language: en
+  complexity: Intermediate
+  speakers:
+    - martingoerner
+- id: "022"
+  title: Making music with JavaScript and Gamepads
+  place: konfi45
+  service: null
+  description: "The Web Audio API allows to create, to manipulate and to mix sounds right from the browser. Many highly interactive and novel experiments have been created, which enable everyone of us to make music even without any musical experience. Adding the Gamepad API to the experiments even enriches the user’s experience in exploring the music creation process.<br/>This talk will show the basics of dealing with both APIs and it will contain experiments that show how well both APIs go together."
+  subtype: conference
+  language: en
+  complexity: Intermediate
+  speakers:
+    - janmonschke
+- id: "023"
+  title: Polymer
+  place: konfi45
+  service: null
+  description: The Polymer Project has been announced at Google’s I/O 2013 in May and is a collection of polyfills for up-and-coming browser technolgies as well as a framework on top. Polymer provides you with the ability to create your own custom elements which are handled just like native ones by the browser. How this is beneficial for your web development process is topic of the talk.
+  subtype: conference
+  language: en
+  complexity: Intermediate
+  speakers:
+    - alexandersurma
+- id: "024"
+  title: "A RESTful Development: API Design for the Real World"
+  place: konfi45
+  service: null
+  description: "REST has pretty much won the standards battle. Game over, thankfully.  These days, we get to focus on how to do REST right, and there are as many opinions as there are APIs. This talk will explain the core principles behind RESTful API design, highlight key design principles, and overview emerging trends."
+  subtype: conference
+  language: en
+  complexity: Intermediate
+  speakers:
+    - michaelmahemoff
+- id: "025"
+  title: Web development gone awesome with Angular.js
+  place: konfi45
+  service: null
+  description: ""
+  subtype: conference
+  language: en
+  complexity: Intermediate
+  speakers:
+    - stefanhoth
+- id: "026"
+  title: Fireside chat with all speakers of the Web track
+  place: konfi45
+  service: null
+  description: ""
+  subtype: conference
+  language: en
+  complexity: Intermediate
+  speakers:
+    - martingoerner
+    - janmonschke
+    - alexandersurma
+    - michaelmahemoff
+    - stefanhoth
+- id: "027"
+  title: Intro on how Google Cloud Platform can power your startup
+  place: casino
+  service: null
+  description: "This talk gives a brief overview about Google Cloud Platform and how it can power your startup by giving you access to Google's powerful infrastructure. Regardless if you want root access to the shell on Google Compute Engine or have us autoscale your application on Google App Engine, this talk shows how Google can do it at scale and how you can easily get started."
+  subtype: conference
+  language: en
+  complexity: Intermediate
+  speakers:
+    - jenskuehlers
+- id: 028
+  title: An introduction to Open Source development
+  place: casino
+  service: null
+  description: "This session is going to introduce good practices of Open Source development and how every developer can benefit from it.<br/>Listeners will gain insights on how to get started with an Open Source component as well as the successful continuation of it’s maintainance.<br/>The introduction will use the example of the Crouton library for Android."
+  subtype: conference
+  language: en
+  complexity: Intermediate
+  speakers:
+    - benjaminweiss
+- id: 029
+  title: "Google's Push notification service to Android and Chrome clients"
+  place: casino
+  service: null
+  description: "The session will show the functionality of the push notifaction service Google Cloud Messaging (GCM) and how to implement it on server and client side. It will also show the new feature, how to connect a message to a user, so notifications don't need to be dismissed on every device. Free your Android app from higher battery usage and your server from rapid server requests, by attending this session and implementing GCM."
+  subtype: conference
+  language: en
+  complexity: Intermediate
+  speakers:
+    - steveliedtke
+- id: "030"
+  title: Super-charge your startup with Google AppEngine
+  place: casino
+  service: null
+  description: "We will briefly present Google AppEngine, and will focus on why the PaaS from Google should be a hosting platform considered by any early stage Internet startup. The presentation will then focus on good practices to get started with Google AppEngine, and some ways to avoid common issues when developing for Google AppEngine Java."
+  subtype: conference
+  language: en
+  complexity: Intermediate
+  speakers:
+    - jeromemouton
+- id: "031"
+  title: "Data persistance: Typical Java way vs. AppEngine way"
+  place: casino
+  service: null
+  description: "The typical Java way of doing persistence does not really work in AppEngine. During this talk we will cover some typical pain points  from the difference between your expectations and what is supported in GAE, and workarounds for the most common cases."
+  subtype: conference
+  language: en
+  complexity: Intermediate
+  speakers:
+    - ignaciocoloma
+- id: "032"
+  title: Ninja - the best Java web framework for App Engine
+  place: casino
+  service: null
+  description: "Ninja is an agile Java web framework. Ninja's aim is that you don’t have to setup everything yourself. Ideally you just generate a new project from our maven archetype, import the project into your IDE and start hacking.<br/>Ninja delivers everything you need. Dependency injection, clean restful routes. Html, Json and Xml rendering and parsing, management of different environments, database persistence, excellent testing support and much much more.<br/>This session will introduce Ninja and feature some live coding on the App Engine.<br/>Getting productive on the App Engine has never been easier."
+  subtype: conference
+  language: en
+  complexity: Intermediate
+  speakers:
+    - raphaelbauer
+- id: "033"
+  title: Fireside chat with all speakers of the Cloud track
+  place: casino
+  service: null
+  description: ""
+  subtype: conference
+  language: en
+  complexity: Intermediate
+  speakers:
+    - jenskuehlers
+    - steveliedtke
+    - jeromemouton
+    - ignaciocoloma
+    - raphaelbauer

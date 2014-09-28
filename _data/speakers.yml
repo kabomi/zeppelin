@@ -1,67 +1,209 @@
-- 
-  id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
+- id: stefanhoth
+  name: Stefan
+  surname: Hoth
+  company: ""
+  title: ""
+  bio: "Stefan is living in Berlin and a developer of many traits. He has programmed everything from Backends in Java or PHP, Chrome Apps and web frontends to Android apps. As a co-organizer of the GDG Berlin he can embrace his interest in getting to know new technologies, languages and frameworks."
+  thumbnailUrl: "https://lh4.googleusercontent.com/-VfnjDrTP1Vw/AAAAAAAAAAI/AAAAAAAAZDY/zYb66YJ0xxw/photo.jpg?sz=200"
   rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
+  social:
+    - name: google-plus
+      link: "111333123856542807695"
+- id: matthiasfriedrich
+  name: Matthias
+  surname: Friedrich
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: matthiasfriedrich.png
   rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  social:
+    - name: google-plus
+      link: "http://google.com/+MatthiasFriedrich"
+- id: mateuszherych
+  name: Mateusz
+  surname: Herych
+  company: ""
+  title: ""
+  bio: "Mateusz works as an Android Developer at Base CRM, where he tries to make enterprise software users 10x more productive. In his free time he's fighting <a href=\"http://github.com/partition\">http://github.com/partition</a> Android data layer boilerplate. He is GDG Kraków co-organizer and every December you can find him organizing <a href=\"http://krakdroid.pl\">KrakDroid</a>."
+  thumbnailUrl: mateuszherych.jpg
   rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
-- 
-  id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  social:
+    - name: google-plus
+      link: "https://plus.google.com/u/1/108555637824110226040/"
+- id: davidgonzalez
+  name: David
+  surname: González
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: davidgonzalez.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  social:
+    - name: google-plus
+      link: "https://plus.google.com/102945547798504771972"
+- id: wiebeelsinga
+  name: Wiebe
+  surname: Elsinga
+  company: ""
+  title: ""
+  bio: "Co-Founder Dutch Android User Group and Mobile Technical Lead at ItudeMobile<br/>Basically a EntrepreNerd. Mainly focused on the development of mobile applications, and is continuously seeking quality improvements within the development process of mobile applications. Also a public speaker at technical conferences worldwide"
+  thumbnailUrl: wiebeelsinga.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  social:
+    - name: google-plus
+      link: "https://plus.google.com/+WiebeElsinga"
+- id: timmesserschmidt
+  name: Tim
+  surname: Messerschmidt
+  company: ""
+  title: ""
+  bio: "As a long time mobile and web developer specializing in Android, Tim channels his knowledge and experience as a Developer Evangelist across Europe for PayPal’s Developer Network. Tim is very passionate about startups, and serves as a mentor of Seedcamp, Wayra, Startup Wise Guys & Rockstart. In his spare time, he leads and creates training classes in all sorts of Android related topics, and is the author of the Android chapter of the Mobile Developer's Guide to the Galaxy, as well as numerous articles published in magazines like Web&Mobile Developer. His ongoing work on this topic and having an app in Google's Play Store with more than 300,000 downloads makes him a great resource for mobile related questions."
+  thumbnailUrl: timmesserschmidt.png
+  rockstar: true
+  social:
+    - name: google-plus
+      link: "https://www.google.com/+TimMesserschmidt"
+- id: christianketterer
+  name: Christian
+  surname: Ketterer
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: "https://lh5.googleusercontent.com/-VWZOqf2XzyU/AAAAAAAAAAI/AAAAAAAAAIo/jrtEGsIfX5w/s200-c/photo.jpg"
+  rockstar: true
+  social:
+    - name: google-plus
+      link: "110214177917096895451"
+- id: sebastianstiehl
+  name: Sebastian
+  surname: Stiehl
+  company: ""
+  title: ""
+  bio: "Dynamic Frontend Expert @ immobilienscout24.de living in Berlin"
+  thumbnailUrl: sebastianstiehl.jpg
+  rockstar: true
+  social:
+    - name: google-plus
+      link: "https://plus.google.com/+SebastianStiehl"
+- id: martingoerner
+  name: Martin
+  surname: Görner
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: martingoerner.jpg
+  rockstar: true
+  social:
+    - name: google-plus
+      link: "https://plus.google.com/+MartinGorner"
+- id: janmonschke
+  name: Jan
+  surname: Monschke
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: janmonschke.jpg
+  rockstar: true
+  social:
+    - name: google-plus
+      link: "https://plus.google.com/+JanMonschke"
+- id: alexandersurma
+  name: Alexander
+  surname: Surma
+  company: ""
+  title: ""
+  bio: "Alexander \"surma\" Surma is a Software Engineer for nuboLAB and Co-Lead of the GDG Berlin Golang."
+  thumbnailUrl: alexandersurma.jpg
+  rockstar: true
+  social:
+    - name: google-plus
+      link: "http://plus.google.com/+AlexanderSurma"
+- id: michaelmahemoff
+  name: Michael
+  surname: Mahemoff
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: michaelmahemoff.png
+  rockstar: true
+  social:
+    - name: google-plus
+      link: "https://plus.google.com/+MichaelMahemoff"
+- id: jenskuehlers
+  name: Jens
+  surname: Kühlers
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: jenskuehlers.jpg
+  rockstar: true
+  social:
+    - name: google-plus
+      link: "https://www.google.com/+JensKuehlers"
+- id: benjaminweiss
+  name: Benjamin
+  surname: Weiß
+  company: ""
+  title: ""
+  bio: "After moving to Berlin in 2009 Benjamin started developing Applications for Android. Shortly after that he became manager of Berlin's Android Usergroup \"GDG Android in Berlin\" which holds monthly meetups. He has co-organized Android related community events such as \"GTUG Community Weekend\", \"Global Android Dev Camp\" and \"GDG DevFest\".\n\nWhile studying Business Computing he and his team developed the Guinness World Record setting Open Source App Blinkendroid. He has also developed the Crouton library for Android. Further is a member of c-base hackerspace's mobile interfaces project that is currently focusing on home automation.\n\nSince 2012 Benjamin is working as a Senior Software Developer at ImmobilienScout24."
+  thumbnailUrl: benjaminweiss.jpg
+  rockstar: true
+  social:
+    - name: google-plus
+      link: "https://plus.google.com/117509657298845443204"
+- id: steveliedtke
+  name: Steve
+  surname: Liedtke
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: steveliedtke.jpg
+  rockstar: true
+  social:
+    - name: google-plus
+      link: "https://plus.google.com/+SteveLiedtke"
+- id: jeromemouton
+  name: Jerome
+  surname: Mouton
+  company: ""
+  title: ""
+  bio: "Jerome is the co-founder and CTO at SnapEngage, a live chat and customer engagement solution hosted on Google AppEngine. He also co-leads the GDG Berlin."
+  thumbnailUrl: jeromemouton.jpg
+  rockstar: true
+  social:
+    - name: google-plus
+      link: "http://google.com/+JeromeMouton"
+- id: ignaciocoloma
+  name: Ignacio
+  surname: Coloma
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: ignaciocoloma.jpg
+  rockstar: true
+  social:
+    - name: google-plus
+      link: "https://plus.google.com/+NachoColoma"
+- id: raphaelbauer
+  name: Raphael
+  surname: Bauer
+  company: ""
+  title: ""
+  bio: "Entrepreneur and Freelancer <br/>Based in Berlin, Germany. I specialized in architecting and leading large scale IT projects. Test driven, agile and getting things done. My current projects often involve Google Web Toolkit (GWT), Angular.js, Google App Engine, Ninja / Play Framework and the JEE stack with Big Data backends. BackupGoo is one of the startups I am involved in. And if you want to see how I write code and lead projects check out Ninja web framework and DocTester.<br/><br/>Scientist<br/>I successfully graduated from the International Graduate School Genomics and Systems Biology of Molecular Networks and earned a PhD degree from the Free University Berlin. I am part of the team that developed one of the best 3D RNA superposition algorithms.  And I contributed to several high ranking scientific publications in the field."
+  thumbnailUrl: raphaelbauer.jpg
+  rockstar: true
+  social:
+    - name: google-plus
+      link: "https://plus.google.com/118082806863266758700"
+- id: dirkjaeckel
+  name: Dirk
+  surname: Jäckel
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: dirkjaeckel.png
+  rockstar: true
+  social:
+    - name: google-plus
+      link: "https://plus.google.com/+DirkJäckel"
