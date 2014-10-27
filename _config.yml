@@ -44,9 +44,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/1aUZqI4tNBXP79zn5yi1XeNiUh4hTMh4jplfM7RPooss/viewform", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/1aUZqI4tNBXP79zn5yi1XeNiUh4hTMh4jplfM7RPooss/viewform", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
