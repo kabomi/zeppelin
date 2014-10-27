@@ -5,32 +5,32 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+title: "GDG DevFest Berlin 2014"
+email: "team@devfest-berlin.de"
+description: "GDG DevFests are large, community-run events that can offer speaker sessions across multiple product areas, all-day hack-a-thons, code labs, and more. And Berlin got it's own!"
 baseurl: "/zeppelin"
-url: "http://gdg-x.github.io"
+url: "http://devfest-berlin.de"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsTrackingId: "UA-146052-10"
+googleAnalyticsSiteUrl: "devfest-berlin.de"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerName: "GDG Berlin"
+organizerAlternateName: "Google Developer Group Berlin"
+organizerDescription: "Open group of people who use technologies & software developed by Google."
+organizerEmail: "team@devfest-berlin.de"
+organizerLogo: "/img/seo/organizer-logo.png" #not supported
+organizerLink: "http://gdg-berlin.org/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, berlin"
+twitterAccount: "@gdgberlin"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
+c4pUrl: "https://docs.google.com/forms/d/1aUZqI4tNBXP79zn5yi1XeNiUh4hTMh4jplfM7RPooss/viewform"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -50,12 +50,12 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest<typeout>2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+heroTitle: "GDG DevFest <typeout>2014"
+eventDate: "21 - 23 November, 2014"
+typeoutTextValues: '"", "Berlin"'
+typeoutFallback: "Berlin"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/1aUZqI4tNBXP79zn5yi1XeNiUh4hTMh4jplfM7RPooss/viewform", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -84,19 +84,19 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventLocationName: "ImmobilienScout 24 GmbH"
+eventLocationLink: "http://www.immobilienscout24.de/unternehmen/kontakt.html"
+eventStreetAddress: "Andreasstr. 10"
+eventAddressLocality: "Berlin"
+eventAddressLocalityRegion: "Berlin"
+eventPostalCode: "10243"
+eventAddressCountry: "Deutschland"
+eventStartTime: "2014-11-21T15:00"
+eventDoorTime: "08:30"
+eventEndTime: "2014-11-23T19:00"
+eventPlaceCoordinates: "52.512594, 13.431108"
+mapCenterCoordinates: "52.512594, 13.431108"
+mapMobileCenterCoordinates: "52.512594, 13.431108"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -104,14 +104,14 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "ImmobilienScout"
+venueFeatures: ["Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
+twitterHashTag: "devfest2014"
+twitterFeed: "http://gdg-berlin.org/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -130,56 +130,31 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lu
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
- -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-
+  price: "9.99"
+  priceCurrency: "EUR"
+  ticketsNumber: "150" #TODO: check
+  ribbon: "-50%" #TODO: check
+  buyButtonLink: "https://devfest-berlin.ticketbud.com/devfest-berlin-2014/"
+  buyButtonText: "Get your ticket NOW"
+  ticketContentList: ["3-day Pass"]
+  validFrom: "2014-10-01T10:00" #TODO: check
+  validThrough: "2014-11-20T23:59" #TODO: check
 # Footer
-socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+socialLinks: #TODO: check (maybe https://plus.google.com/events/c1u8933vkjrog9uklt58o7frj24)
+ - {link: "https://plus.google.com/b/116495772997450383126", icon: "google-plus"} 
+ - {link: "https://twitter.com/intent/user?screen_name=GDGBerlin", icon: "twitter"}
+ - {link: "https://facebook.com/gdgberlin", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "http://gdg-berlin.org/", text: "GDG Berlin"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:team@devfest-berlin.de", text: "team@devfest-berlin.de"}
  -
   title: "FAQ"
   links:
