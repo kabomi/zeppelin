@@ -139,7 +139,7 @@ ticketsOffers:
   ticketContentList: ["3-day Pass"]
   validFrom: "2014-10-01T10:00" #TODO: check
   validThrough: "2014-11-20T23:59" #TODO: check
--
+ -
   name: "Early enough bird"
   price: "13.37"
   priceCurrency: "EUR"
