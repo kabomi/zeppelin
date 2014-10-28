@@ -1,5 +1,5 @@
-- date: "2013-11-01"
-  dateReadable: November 1
+- date: "2014-11-21"
+  dateReadable: November 21
   tracks:
     - title: Android
       color: "#90be4e"
@@ -48,8 +48,8 @@
       endTime: "23:59"
       sessionIds:
         - "104"
-- date: "2013-11-02"
-  dateReadable: November 2
+- date: "2014-11-22"
+  dateReadable: November 22
   tracks:
     - title: Android
       color: "#90be4e"
@@ -124,8 +124,8 @@
       endTime: "23:59"
       sessionIds:
         - "110"
-- date: "2013-11-03"
-  dateReadable: November 3
+- date: "2014-11-23"
+  dateReadable: November 23
   tracks:
     - title: hackathon
       color: !<tag:yaml.org,2002:js/undefined> ""

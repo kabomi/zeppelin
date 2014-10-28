@@ -14,96 +14,19 @@
   surname: Friedrich
   company: ""
   title: ""
-  bio: ""
+  bio: "As Android user from the beginning, I started to develop for the platform with version 1.6 in 2009. Since then i'm following its progress very enthusiastically and worked on several applications, big and small, successful in the Play Store and as specialized customer solutions . During these years, i also co-founded the GDG Bremen and GDG Android Hamburg, gave several Android related talks and organized developer events around Google technologies in general."
   thumbnailUrl: matthiasfriedrich.png
   rockstar: true
   social:
     - name: google-plus
       link: "http://google.com/+MatthiasFriedrich"
-- id: mateuszherych
-  name: Mateusz
-  surname: Herych
-  company: ""
-  title: ""
-  bio: "Mateusz works as an Android Developer at Base CRM, where he tries to make enterprise software users 10x more productive. In his free time he's fighting <a href=\"http://github.com/partition\">http://github.com/partition</a> Android data layer boilerplate. He is GDG Kraków co-organizer and every December you can find him organizing <a href=\"http://krakdroid.pl\">KrakDroid</a>."
-  thumbnailUrl: mateuszherych.jpg
-  rockstar: true
-  social:
-    - name: google-plus
-      link: "https://plus.google.com/u/1/108555637824110226040/"
-- id: davidgonzalez
-  name: David
-  surname: González
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: davidgonzalez.jpg
-  rockstar: true
-  social:
-    - name: google-plus
-      link: "https://plus.google.com/102945547798504771972"
-- id: wiebeelsinga
-  name: Wiebe
-  surname: Elsinga
-  company: ""
-  title: ""
-  bio: "Co-Founder Dutch Android User Group and Mobile Technical Lead at ItudeMobile<br/>Basically a EntrepreNerd. Mainly focused on the development of mobile applications, and is continuously seeking quality improvements within the development process of mobile applications. Also a public speaker at technical conferences worldwide"
-  thumbnailUrl: wiebeelsinga.jpg
-  rockstar: true
-  social:
-    - name: google-plus
-      link: "https://plus.google.com/+WiebeElsinga"
-- id: timmesserschmidt
-  name: Tim
-  surname: Messerschmidt
-  company: ""
-  title: ""
-  bio: "As a long time mobile and web developer specializing in Android, Tim channels his knowledge and experience as a Developer Evangelist across Europe for PayPal’s Developer Network. Tim is very passionate about startups, and serves as a mentor of Seedcamp, Wayra, Startup Wise Guys & Rockstart. In his spare time, he leads and creates training classes in all sorts of Android related topics, and is the author of the Android chapter of the Mobile Developer's Guide to the Galaxy, as well as numerous articles published in magazines like Web&Mobile Developer. His ongoing work on this topic and having an app in Google's Play Store with more than 300,000 downloads makes him a great resource for mobile related questions."
-  thumbnailUrl: timmesserschmidt.png
-  rockstar: true
-  social:
-    - name: google-plus
-      link: "https://www.google.com/+TimMesserschmidt"
-- id: christianketterer
-  name: Christian
-  surname: Ketterer
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: "https://lh5.googleusercontent.com/-VWZOqf2XzyU/AAAAAAAAAAI/AAAAAAAAAIo/jrtEGsIfX5w/s200-c/photo.jpg"
-  rockstar: true
-  social:
-    - name: google-plus
-      link: "110214177917096895451"
-- id: sebastianstiehl
-  name: Sebastian
-  surname: Stiehl
-  company: ""
-  title: ""
-  bio: "Dynamic Frontend Expert @ immobilienscout24.de living in Berlin"
-  thumbnailUrl: sebastianstiehl.jpg
-  rockstar: true
-  social:
-    - name: google-plus
-      link: "https://plus.google.com/+SebastianStiehl"
-- id: martingoerner
-  name: Martin
-  surname: Görner
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: martingoerner.jpg
-  rockstar: true
-  social:
-    - name: google-plus
-      link: "https://plus.google.com/+MartinGorner"
 - id: janmonschke
   name: Jan
   surname: Monschke
   company: ""
   title: ""
-  bio: ""
-  thumbnailUrl: janmonschke.jpg
+  bio: "Jan is frontend web developer from Berlin who focusses on building collaborative, multimedia web applications. He is always looking for new challenges on the web and since learning about the Web Audio API at JSconf.eu 2012 it is his new passion to create music-related web apps and experiments."
+  thumbnailUrl: "https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xfp1/t31.0-8/10551669_10203558908747134_1336488498860434196_o.jpg"
   rockstar: true
   social:
     - name: google-plus
@@ -119,83 +42,17 @@
   social:
     - name: google-plus
       link: "http://plus.google.com/+AlexanderSurma"
-- id: michaelmahemoff
-  name: Michael
-  surname: Mahemoff
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: michaelmahemoff.png
-  rockstar: true
-  social:
-    - name: google-plus
-      link: "https://plus.google.com/+MichaelMahemoff"
 - id: jenskuehlers
   name: Jens
   surname: Kühlers
   company: ""
   title: ""
-  bio: ""
+  bio: Cloud Platform Solutions Engineer at Google
   thumbnailUrl: jenskuehlers.jpg
   rockstar: true
   social:
     - name: google-plus
       link: "https://www.google.com/+JensKuehlers"
-- id: benjaminweiss
-  name: Benjamin
-  surname: Weiß
-  company: ""
-  title: ""
-  bio: "After moving to Berlin in 2009 Benjamin started developing Applications for Android. Shortly after that he became manager of Berlin's Android Usergroup \"GDG Android in Berlin\" which holds monthly meetups. He has co-organized Android related community events such as \"GTUG Community Weekend\", \"Global Android Dev Camp\" and \"GDG DevFest\".\n\nWhile studying Business Computing he and his team developed the Guinness World Record setting Open Source App Blinkendroid. He has also developed the Crouton library for Android. Further is a member of c-base hackerspace's mobile interfaces project that is currently focusing on home automation.\n\nSince 2012 Benjamin is working as a Senior Software Developer at ImmobilienScout24."
-  thumbnailUrl: benjaminweiss.jpg
-  rockstar: true
-  social:
-    - name: google-plus
-      link: "https://plus.google.com/117509657298845443204"
-- id: steveliedtke
-  name: Steve
-  surname: Liedtke
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: steveliedtke.jpg
-  rockstar: true
-  social:
-    - name: google-plus
-      link: "https://plus.google.com/+SteveLiedtke"
-- id: jeromemouton
-  name: Jerome
-  surname: Mouton
-  company: ""
-  title: ""
-  bio: "Jerome is the co-founder and CTO at SnapEngage, a live chat and customer engagement solution hosted on Google AppEngine. He also co-leads the GDG Berlin."
-  thumbnailUrl: jeromemouton.jpg
-  rockstar: true
-  social:
-    - name: google-plus
-      link: "http://google.com/+JeromeMouton"
-- id: ignaciocoloma
-  name: Ignacio
-  surname: Coloma
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: ignaciocoloma.jpg
-  rockstar: true
-  social:
-    - name: google-plus
-      link: "https://plus.google.com/+NachoColoma"
-- id: raphaelbauer
-  name: Raphael
-  surname: Bauer
-  company: ""
-  title: ""
-  bio: "Entrepreneur and Freelancer <br/>Based in Berlin, Germany. I specialized in architecting and leading large scale IT projects. Test driven, agile and getting things done. My current projects often involve Google Web Toolkit (GWT), Angular.js, Google App Engine, Ninja / Play Framework and the JEE stack with Big Data backends. BackupGoo is one of the startups I am involved in. And if you want to see how I write code and lead projects check out Ninja web framework and DocTester.<br/><br/>Scientist<br/>I successfully graduated from the International Graduate School Genomics and Systems Biology of Molecular Networks and earned a PhD degree from the Free University Berlin. I am part of the team that developed one of the best 3D RNA superposition algorithms.  And I contributed to several high ranking scientific publications in the field."
-  thumbnailUrl: raphaelbauer.jpg
-  rockstar: true
-  social:
-    - name: google-plus
-      link: "https://plus.google.com/118082806863266758700"
 - id: dirkjaeckel
   name: Dirk
   surname: Jäckel
@@ -207,3 +64,102 @@
   social:
     - name: google-plus
       link: "https://plus.google.com/+DirkJäckel"
+- id: janphilippheinrich
+  name: Jan-Philipp
+  surname: Heinrich
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: janphilippheinrich.jpg
+  rockstar: true
+  social:
+    - name: google-plus
+      link: "https://plus.google.com/+JanPhilippHeinrich"
+- id: christianketterer
+  name: Christian
+  surname: Ketterer
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: "https://lh5.googleusercontent.com/-VWZOqf2XzyU/AAAAAAAAAAI/AAAAAAAAAIo/jrtEGsIfX5w/s200-c/photo.jpg"
+  rockstar: true
+  social:
+    - name: google-plus
+      link: "110214177917096895451"
+- id: melindaalbert
+  name: Melinda
+  surname: Albert
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: "https://lh4.googleusercontent.com/-cFePUG1gmsI/U4dqDRV4maI/AAAAAAAACKc/oR3dgYzUvoM/s749-no/ich.png"
+  rockstar: true
+  social:
+    - name: google-plus
+      link: +MelindaAlbert
+- id: sebatianopoggi
+  name: Sebastiano
+  surname: Poggi
+  company: ""
+  title: ""
+  bio: "A self-taught and strong OSS believer who loves beautiful and simple UX and UI, where “less is more”, Sebastiano spends a big chunk of his spare time reading and writing about Android development. He also creates and maintains some FOSS apps and libraries, that span from the fun, smaller projects to the more serious (and, perhaps, useful) work."
+  thumbnailUrl: "https://lh4.googleusercontent.com/-uhZ-3UFgzzo/T4XR5D4VHiI/AAAAAAABBp4/PNiNGfhEHUs/w354-h352-no/Face_malga.jpg"
+  rockstar: true
+  social:
+    - name: google-plus
+      link: +SebastianoPoggi
+- id: danielebonaldo
+  name: Daniele
+  surname: Bonaldo
+  company: ""
+  title: ""
+  bio: Daniele is an Android Software Craftsman at Novoda in London.
+  thumbnailUrl: "https://lh6.googleusercontent.com/-y3b7ZbMryRU/UaXAN9XZ_jI/AAAAAAAACNI/DGOuBFqWn_Q/w520-h519-no/IMG_7560.jpg"
+  rockstar: true
+  social:
+    - name: google-plus
+      link: +DanieleBonaldo
+- id: dannypreussler
+  name: Danny
+  surname: Preussler
+  company: ""
+  title: ""
+  bio: Danny is in charge of Android development at Groupon in Berlin. Before that he worked for companies like eBay and Alcatel. Danny writes and talks about android development or testing regularly.
+  thumbnailUrl: "https://lh6.googleusercontent.com/-lRS0HiJQ2cA/UrP9HfZrBuI/AAAAAAAAJn4/-nUPbl1pG_k/s414-no/IMAG1879.jpg"
+  rockstar: true
+  social:
+    - name: google-plus
+      link: +DannyPreussler
+- id: heikemeyburgh
+  name: Heike
+  surname: Meyburgh
+  company: ""
+  title: ""
+  bio: "When she’s not training to become a Yoga Instructor or trying to become the female Bear Grylls, Heike Meyburgh works as an Executive Producer at Stinkdigital. After graduating in South Africa and before joining Stinkdigital, Heike worked at several agencies engaging with big brands such as Nike, Cell C and RedBull. Heike’s currently based in Berlin and is sinking her teeth into the new market."
+  thumbnailUrl: "https://lh6.googleusercontent.com/-gymPtHKrfP8/T4_XFAAo-NI/AAAAAAAAARE/SKAXiIASi_g/s393-no/Photo%2Bon%2B2011-11-04%2Bat%2B16.35%2B%232.jpg"
+  rockstar: true
+  social:
+    - name: google-plus
+      link: +HeikeMeyburgh
+- id: tiffanyconroy
+  name: Tiffany
+  surname: Conroy
+  company: ""
+  title: ""
+  bio: "Tiffany is a self-taught JavaScript programmer trained as an electrically engineer. Front-end developer and interaction designer, mostly. “theophani” on Github, Twitter, Flickr, SoundCloud … and everywhere else. JSConf EU co-curator, weareaweso.me creator, BerlinJS co-organizer."
+  thumbnailUrl: "https://avatars0.githubusercontent.com/u/364246?v=2&s=460"
+  rockstar: true
+  social:
+    - name: google-plus
+      link: ""
+- id: leehambley
+  name: Lee
+  surname: Hambley
+  company: ""
+  title: ""
+  bio: "I’m the founder of a successful consultancy company personally offering extensive experience with Ruby, PHP, Lua, and SQL (MySQL and PostgreSQL). Sometimes I work with JavaScript, C or Objective-C. I contribute heavily to open source. I’ve maintained Capistrano for the last few years; it’s the de-facto standard for deploying Ruby or Rails applications. I’m working hard with a couple of awesome people at making it work well for other projects too, you can watch us work."
+  thumbnailUrl: "https://lh3.googleusercontent.com/-dxGyDhdrl9U/UPlRy7RQGZI/AAAAAAAAAnU/H7MXA1uCDKY/w301-h300-no/me.png"
+  rockstar: true
+  social:
+    - name: google-plus
+      link: +LeeHambley
