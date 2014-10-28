@@ -132,12 +132,23 @@ ticketsOffers:
   name: "Early Bird"
   price: "9.99"
   priceCurrency: "EUR"
-  ticketsNumber: "150" #TODO: check
+  ticketsNumber: "100" #TODO: check
   ribbon: "-50%" #TODO: check
   buyButtonLink: "https://devfest-berlin.ticketbud.com/devfest-berlin-2014/"
   buyButtonText: "Get your ticket NOW"
   ticketContentList: ["3-day Pass"]
   validFrom: "2014-10-01T10:00" #TODO: check
+  validThrough: "2014-11-20T23:59" #TODO: check
+-
+  name: "Early enough bird"
+  price: "13.37"
+  priceCurrency: "EUR"
+  ticketsNumber: "100" #TODO: check
+  ribbon: "-30%" #TODO: check
+  buyButtonLink: "https://devfest-berlin.ticketbud.com/devfest-berlin-2014/"
+  buyButtonText: "Get your ticket NOW"
+  ticketContentList: ["3-day Pass"]
+  validFrom: "2014-10-27T10:00" #TODO: check
   validThrough: "2014-11-20T23:59" #TODO: check
 # Footer
 socialLinks: #TODO: check (maybe https://plus.google.com/events/c1u8933vkjrog9uklt58o7frj24)
